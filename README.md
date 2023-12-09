@@ -4,6 +4,7 @@ Here's what I've been doing!
 
 💬 Now:
 - Trying to learn about shell texturing.
+- Learning basic rendering in Unity.
 
 💭 Later:
 - Look into "Graphics Codex" projects
