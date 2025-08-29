@@ -2,7 +2,7 @@
 I'm Joshua, and I'm an senior computer science undergrad at the University of Delaware. I currently have a concentration in Software Engineering, and a minor in Anthropology! Here's what I've been doing!
 
 ## Currently...
-- Participating in the "Spin In" program at the University of Delaware.
+- Working!
 - Misc. personal projects.
 
 ## Experience
